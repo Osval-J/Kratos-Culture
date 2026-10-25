@@ -1,6 +1,6 @@
 🌐 Tienda Online Oficial
 
-👉 Visitar la tienda e-commerce
+👉 Visitar la tienda e-commerce https://www.kratosculture.com/
 
 Caso de estudio de diseño, maquetación y optimización de rendimiento para la tienda online de Kratos Culture, una marca de indumentaria de estilo urbano y gótico. Proyecto desarrollado con un enfoque centrado en la experiencia de usuario móvil (Mobile-First) y la personalización de componentes.
 
