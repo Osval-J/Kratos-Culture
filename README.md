@@ -12,6 +12,7 @@ El objetivo principal fue construir una plataforma de comercio electrónico con 
 Optimización de Navegación Móvil (Anti-Duplicado): Desarrollo e inyección de un menú de navegación horizontal personalizado. Esta solución corrigió un error crítico del sistema nativo que abría pestañas duplicadas, logrando una experiencia fluida y reduciendo la tasa de rebote en smartphones.
 Formularios de Contacto y Captación a Medida: Creación de secciones de contacto personalizadas mediante código propio, mejorando la estética genérica del hosting y optimizando la recogida de datos de los clientes.
 Gestión de Catálogo e Identidad Visual: Estructuración del catálogo por categorías de stock dinámicas y aplicación de una paleta de colores y tipografías oscuras que reflejan fielmente el concepto de la marca.
+
 🛠️ Tecnologías Aplicadas
 Plataforma de Despliegue: Hostinger E-commerce.
 Desarrollo Front-End & Personalización: HTML5, CSS3, JavaScript (para la inyección del menú móvil y comportamiento de formularios).
